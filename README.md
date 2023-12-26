@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=crodic.crodic">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/Crodic">
     <img src="images/1920X1080_EN.jpg">
   </a>
 </h1>
