@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://github.com/Crodic">
-    <img src="images/1920X1080_EN.jpg">
+    <img src="images/Banner.jpg">
   </a>
 </h1>
 
