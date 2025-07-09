@@ -80,12 +80,12 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Crodic/myanimemusic" title="HTML"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=crodic&repo=myanimemusic&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Crodic/tmdb-movie" title="TMDB Movie"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=crodic&repo=tmdb-movie&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/crodic/do-an-tot-nghiep" title="Đồ Án Tốt Nghiệp 2025"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=crodic&repo=do-an-tot-nghiep&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/crodic/blog-nextjs" title="Blog"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=crodic&repo=blog-nextjs&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Crodic/crodic-utils-algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=crodic&repo=crodic-utils-algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Crodic/fresher-project" title="React CRUD"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=crodic&repo=fresher-project&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/crodic/utilities-code" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=crodic&repo=utilities-code&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/crodic/dev-portfolio" title="My Portfolio"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=crodic&repo=dev-portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
